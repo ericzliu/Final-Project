@@ -1,0 +1,18 @@
+Libraries/imports used:
+
+Flask
+- Flask (used to build web applications)
+- url_for (used to display the logic in the Flask application)
+- request (requests data from HTML file)
+- render_template (used to render the HTML file we have in the templates folder)
+
+Flask_bootstrap
+- Bootstrap (extension for Flask that allows one to automatically include bootstrap Javascript into bootstrap CSS files)
+
+Textblob
+- Textblob (used for text analysis and Natural Language Processing tasks)
+- Word (includes methods for inflection, translation, dividing words, WordNet integration, etc.)
+
+Default imports
+- time (used to record execution time for the app)
+- random (imports the random module, which does things with a random number generator)
